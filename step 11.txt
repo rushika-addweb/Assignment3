@@ -1,0 +1,26 @@
+
+//////Laracasts Assignment///
+dt:10/07/2020
+Submitted From :Rushika Mishra
+///////////////
+
+=>The mysql is the datasbase  which is present in the xamp server as php myadmin.
+
+
+=>In this we can create table,insert ,delete,alter,update etc through query  and through php myphpadmin tools also
+Connecting to MySQL Database 
+
+Creating  Table 
+
+Querying Data from Database 
+
+Inserting Data Into a Table .
+
+Updating Data 
+
+Deleting Data 
+
+Calling MySQL Stored Procedures 
+
+
+Manipulating BLOB

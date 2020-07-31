@@ -1,0 +1,29 @@
+//////Laracasts Assignment///
+dt:10/07/2020
+Submitted From :Rushika Mishra
+///////////////
+
+-----Step 1------
+In the  browser visit apachefreinds.org website and  and click to download xamp according to your operating system.
+
+During the installation process,select the required components like MySQL, FileZilla ftp server, PHP, phpMyAdmin  and 
+click the Next button.
+
+Click on Next button.
+
+Choose the root directory path to set up the htdocs folder for our applications i.e. example ‘C:\xampp’.
+
+Click the Allow access button to allow the XAMPP modules from the Windows fireewall.
+
+After the installation process, click the Finish button of the XAMPP Setup.
+
+Now the XAMPP icon is clearly visible on the right side of start menu. 
+
+Show or Hide can be set by using the control panel by clicking on the icon.
+
+To start Apache and MySql, just click on the Start button on the control panel.
+control-panel-xampp
+
+ Through cmd we have type this command php -v and check the version of the installation
+PHP 7.4.5
+

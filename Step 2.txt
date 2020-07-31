@@ -1,0 +1,14 @@
+//////Laracasts Assignment///
+dt:10/07/2020
+Submitted From :Rushika Mishra
+///////////////
+
+-----Step 2------
+I have installed in am using the PHPStorm , and visual studio code .
+
+I have installed that through the website i.e  “https://code.visualstudio.com/download” and www.jetbrains.com/phpstorm/download/
+and  next button  and download  t our preference on our system confiugration.
+
+Select the module which we want to use nad necxt button and click on the finish and code editior is ready for the use.
+
+We can use IDE for our convient use.

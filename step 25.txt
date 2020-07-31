@@ -1,0 +1,45 @@
+///////
+Rushika Mishra
+Step 25 
+/////
+
+In this step 25  we have to use the the laravel  framework 
+
+The laravel is used  in making webpages first we need to download composer from broweser then we we can download the laravel from 
+
+composer create-project --prefer-dist laravel/project-name
+
+then we can start server by   php artisan serve
+
+
+then it will download with all the necssary packages and files i.e
+
+Public Directory
+
+
+Configuration Files
+
+
+Directory Permissions
+
+
+Application Key
+
+
+Additional Configuration
+
+Cache
+Database
+Session
+
+Web Server Configuration
+
+Directory Configuration
+
+
+Pretty URLs
+Apache
+Laravel includes a public/.htaccess file that is used to provide URLs without the index.php front controller in the path. Before serving Laravel with Apache, be sure to enable the mod_rewrite module so the .htaccess file will be honored by the server.
+
+ Then we can make changes in env file to call database and model , controller, routes ,views can start our laravel project now .
+
